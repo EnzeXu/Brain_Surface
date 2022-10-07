@@ -1,0 +1,12 @@
+.\Network2DestrieuxSurfaceRendering.exe icbm_avg_mid_sym_mc_right_hires.vtk .\test\Signal_139B.txt .\test\Right_Sub_Mapping -V Atlas_Right_Destrieux.txt -R RightROI2NodeLookupTable.txt -m 9
+
+.\Network2DestrieuxSurfaceRendering.exe icbm_avg_mid_sym_mc_left_hires.vtk .\test\Signal_139B.txt .\test\Left_Sub_Mapping -V Atlas_Left_Destrieux.txt -R LeftROI2NodeLookupTable.txt -m 9
+
+
+
+1.首先你要有一个TXT文件，每一列包含148个node，一列会有一个vtk结果
+2.然后在Command.txt拷贝一条命令行，并修改，第一个TXT文件是你的输入，紧接着后面是你的输出名字，最后的数字表示你txt文件里面总共有几行。
+3.生成的vtk文件在paraview显示
+
+9452540-1665156280-jjb5e
+.\bin\Network2DestrieuxSurfaceRendering.exe .\bin\icbm_avg_mid_sym_mc_right_hires.vtk .\data\test.txt .\test\mytest -V .\bin\Atlas_Right_Destrieux.txt -R .\bin\RightROI2NodeLookupTable.txt -m 1

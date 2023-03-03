@@ -10,3 +10,5 @@
 
 9452540-1665156280-jjb5e
 .\bin\Network2DestrieuxSurfaceRendering.exe .\bin\icbm_avg_mid_sym_mc_right_hires.vtk .\data\test.txt .\test\mytest -V .\bin\Atlas_Right_Destrieux.txt -R .\bin\RightROI2NodeLookupTable.txt -m 1
+
+.\bin\Network2DestrieuxSurfaceRendering.exe .\bin\icbm_avg_mid_sym_mc_right_hires.vtk .\data\example.txt .\output\example_output -V .\bin\Atlas_Right_Destrieux.txt -R .\bin\RightROI2NodeLookupTable.txt -m 1

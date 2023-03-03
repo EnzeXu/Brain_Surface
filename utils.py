@@ -8,10 +8,13 @@ def build_txt(array, save_path):
         for i in range(n):
             f.write("{}\n".format(array[i]))
 
-def build_vtk():
-    pass
+# def one_time_build():
+#     for method in ["method1", "method2"]:
+#         for part in ["CN", "MCI", "AD"]:
+#             node_list = np.load("data/class/node_class_{}_{}.npy".format(method, part))
+#             build_txt(node_list, "data/{}_{}.txt".format(method, part))
+
 
 if __name__ == "__main__":
-    print("hello world!")
-    a = np.random.rand(148)
-    build_txt(a, "data/test.txt")
+    pass
+

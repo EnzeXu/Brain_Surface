@@ -1,2 +1,4 @@
 *
 .gitignore
+!example_left*
+!example_right*

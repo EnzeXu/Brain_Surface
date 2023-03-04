@@ -1,6 +1,6 @@
 Tutorial: Brain Surface
 ===========================
-![example_cut](https://user-images.githubusercontent.com/90367338/222873057-b9e954a9-7ebb-4baa-9f28-4a7cc92bcd20.png)
+![example_cut_large](https://user-images.githubusercontent.com/90367338/222876855-b490619d-d949-4c26-981c-b81076bc8432.png)
 ===========================
 
 # Catalog

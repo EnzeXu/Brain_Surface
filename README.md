@@ -1,4 +1,4 @@
-Brain Surface
+Tutorial: Brain Surface
 ===========================
 ![example_cut](https://user-images.githubusercontent.com/90367338/222873057-b9e954a9-7ebb-4baa-9f28-4a7cc92bcd20.png)
 ===========================

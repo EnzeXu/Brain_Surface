@@ -54,11 +54,14 @@ Brain Surface
    (1) File -> Open ... (choose the .vtk files)
    
    Hint: you can open multiple .vtk files at a time. Click the "eye" button near the .vtk file's name to make it visible (or invisible)
+![2023-03-03 220413](https://user-images.githubusercontent.com/90367338/222872912-81d61f42-ca82-47d1-9acf-47dde1f703b0.png)
 
    (2) Hide the XYZ axis label
+![2023-03-03 220606](https://user-images.githubusercontent.com/90367338/222872921-2806613b-c242-403c-a5ee-4840b8387dcb.png)
 
    (3) Make screenshots
-
+![2023-03-03 220651](https://user-images.githubusercontent.com/90367338/222872931-82dd26f6-f176-4baf-bba2-f8042580e41b.png)
+![2023-03-03 220747](https://user-images.githubusercontent.com/90367338/222872934-6c483e6f-fb1b-4419-bbb9-b2ed611570a4.png)
 
 # 2 Contacts
 

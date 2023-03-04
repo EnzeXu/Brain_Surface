@@ -1,6 +1,6 @@
 Brain Surface
 ===========================
-![example](https://user-images.githubusercontent.com/90367338/222872979-157f92fe-8926-4644-a6f8-6159a59a7296.png)
+![example_cut](https://user-images.githubusercontent.com/90367338/222873057-b9e954a9-7ebb-4baa-9f28-4a7cc92bcd20.png)
 ===========================
 
 # Catalog
